@@ -1,0 +1,42 @@
+body {
+    height: 100%;
+    margin: 80px 50px;
+    font-family: Tahoma;
+    background: #08151e;
+    display:inline-block;   
+    position:relative;
+}
+.Smena {
+    position: absolute;
+    margin: 0;
+    margin-left: 200px;
+    float: right;
+}
+.text {
+    display:inline-block;
+    position:absolute;
+}
+h6 {
+    font-size: 18px;
+    word-spacing: 20px;
+    color: #778899;
+}
+h1 {
+    margin-left: 50px;
+    margin-top: 100px;
+    margin-bottom: -15px;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+p {
+    width: 700px;
+    margin-left: 50px;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+footer {
+    position: fixed;
+    weight: 100%;
+    bottom: 25px;
+    color: #808080;
+}
